@@ -57,13 +57,13 @@ Make sure you have installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/aonarro/B-O-landing-page.git
+   git clone https://github.com/jeolinna/my-bike-landing-page.git
    ```
 
 2. Navigate into the project directory:
 
    ```bash
-   cd B-O-landing-page
+   cd my-bike-landing-page
    ```
 
 3. Install dependencies:
